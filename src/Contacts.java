@@ -1,5 +1,5 @@
 public class Contacts implements WebPage {
-    Theme theme;
+    protected Theme theme;
 
     public Contacts(Theme theme) {
         this.theme = theme;

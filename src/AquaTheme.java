@@ -1,4 +1,4 @@
-public class AquaTheme implements Theme{
+public class AquaTheme implements Theme {
 
     @Override
     public String getColour() {

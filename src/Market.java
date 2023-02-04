@@ -1,7 +1,7 @@
 import java.lang.reflect.Member;
 
 public class Market implements WebPage {
-    Theme theme;
+    protected Theme theme;
 
     public Market(Theme theme) {
         this.theme = theme;

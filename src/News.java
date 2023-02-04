@@ -1,5 +1,5 @@
 public class News implements WebPage {
-    Theme theme;
+    protected Theme theme;
 
     public News(Theme theme) {
         this.theme = theme;

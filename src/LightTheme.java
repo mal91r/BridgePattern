@@ -1,4 +1,4 @@
-public class LightTheme implements Theme{
+public class LightTheme implements Theme {
 
     @Override
     public String getColour() {
